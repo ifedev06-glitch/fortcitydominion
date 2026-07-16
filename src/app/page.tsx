@@ -85,7 +85,7 @@ export default function Home() {
             </div>
             <div className="hidden sm:block">
               <h1 className="text-sm font-bold leading-tight text-[#0f172a]">
-                FARTCITY
+                FORTCITY
               </h1>
               <p className="text-[10px] font-medium text-[#c7952b] -mt-0.5">
                 DOMINION
@@ -373,7 +373,7 @@ export default function Home() {
                   {
                     icon: "📞",
                     label: "Phone",
-                    value: "+234 800 FARTCITY",
+                    value: "+234 800 FORTCITY",
                   },
                   {
                     icon: "📍",
@@ -427,7 +427,7 @@ export default function Home() {
                   />
                 </div>
                 <div>
-                  <h3 className="font-bold leading-tight">FARTCITY</h3>
+                  <h3 className="font-bold leading-tight">FORTCITY</h3>
                   <p className="text-[10px] font-medium text-[#c7952b] -mt-0.5">
                     DOMINION
                   </p>
@@ -468,7 +468,7 @@ export default function Home() {
               <ul className="space-y-2.5 text-gray-400 text-sm">
                 <li>Lagos, Nigeria</li>
                 <li>info@fartcity.com</li>
-                <li>+234 800 FARTCITY</li>
+                <li>+234 800 FORTCITY</li>
               </ul>
             </div>
           </div>

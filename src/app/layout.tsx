@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Fortcity Dominion | Engineering & Construction Services",
+  title: "Fortcity Dominion Limited | Engineering & Project Services",
   description:
-    "Building and Civil Engineering; Construction and Infrastructure Services; Oil and Gas Services; Property Development and Management; Project and Cost Management; Procurement and Supply Chain Services; and Logistics.",
+    "Building and Civil Engineering, Oil and Gas Services, Property Development, Project Management, Cost Management, Procurement and Supply Chain, and Logistics Services.",
   openGraph: {
-    title: "Fortcity Dominion | Engineering & Construction Services",
+    title: "Fortcity Dominion Limited | Engineering & Project Services",
     description:
-      "Building and Civil Engineering; Construction and Infrastructure Services; Oil and Gas Services; Property Development and Management; Project and Cost Management; Procurement and Supply Chain Services; and Logistics.",
+      "Building and Civil Engineering, Oil and Gas Services, Property Development, Project Management, Cost Management, Procurement and Supply Chain, and Logistics Services.",
     type: "website",
   },
 };

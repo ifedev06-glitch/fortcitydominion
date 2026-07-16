@@ -77,7 +77,7 @@ export default function Home() {
             <div className="w-10 h-10 rounded-lg overflow-hidden bg-[#0f172a] flex-shrink-0">
               <Image
                 src="/logo.jpg"
-                alt="Fartcity Dominion"
+                alt="Fortcity Dominion"
                 width={40}
                 height={40}
                 className="object-cover w-full h-full"
@@ -166,7 +166,7 @@ export default function Home() {
           <div className="relative container-custom pt-16 pb-8 md:pt-32 md:pb-32">
           <div className="max-w-3xl">
             <p className="text-[#c7952b] font-semibold text-sm md:text-base tracking-widest uppercase mb-4">
-              Welcome to Fartcity Dominion
+              Welcome to Fortcity Dominion
             </p>
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6 tracking-wide">
               Building the
@@ -243,7 +243,7 @@ export default function Home() {
                 Delivering Excellence Across Every Sector
               </h2>
               <p className="text-gray-600 leading-relaxed mb-6">
-                Fartcity Dominion is a multidisciplinary engineering and
+                Fortcity Dominion is a multidisciplinary engineering and
                 construction firm with global operations. We bring
                 together deep expertise in civil engineering, infrastructure
                 development, oil & gas services, property development, project
@@ -334,7 +334,7 @@ export default function Home() {
             Ready to Start Your Project?
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto mb-8">
-            Let&apos;s discuss how Fartcity Dominion can bring your vision to
+            Let&apos;s discuss how Fortcity Dominion can bring your vision to
             life. From feasibility to handover, we&apos;re with you every step
             of the way.
           </p>
@@ -368,7 +368,7 @@ export default function Home() {
                   {
                     icon: "🏢",
                     label: "Company",
-                    value: "Fartcity Dominion",
+                    value: "Fortcity Dominion",
                   },
                   {
                     icon: "📞",
@@ -420,7 +420,7 @@ export default function Home() {
                 <div className="w-10 h-10 rounded-lg overflow-hidden bg-white/10 flex-shrink-0">
                   <Image
                     src="/logo.jpg"
-                    alt="Fartcity Dominion"
+                    alt="Fortcity Dominion"
                     width={40}
                     height={40}
                     className="object-cover w-full h-full"
@@ -475,7 +475,7 @@ export default function Home() {
 
           <div className="mt-10 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
             <p className="text-gray-500 text-xs">
-              &copy; {new Date().getFullYear()} Fartcity Dominion. All rights
+              &copy; {new Date().getFullYear()} Fortcity Dominion. All rights
               reserved.
             </p>
             <p className="text-gray-500 text-xs">

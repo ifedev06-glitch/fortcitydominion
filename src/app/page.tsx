@@ -463,7 +463,7 @@ export default function Home() {
               <div className="space-y-5">
                 {[
                   { icon: "🏢", label: "Company", value: "Fortcity Dominion Limited" },
-                  { icon: "📞", label: "Phone", value: "+234 800 FORTCITY" },
+                  { icon: "📞", label: "Phone", value: "08065818141" },
                   { icon: "📍", label: "Address", value: "Lagos, Nigeria" },
                   { icon: "📧", label: "Email", value: "info@fortcitydominion.com" },
                   { icon: "🌐", label: "Website", value: "www.fortcitydominion.com" },
@@ -549,7 +549,7 @@ export default function Home() {
               <ul className="space-y-2.5 text-gray-400 text-sm">
                 <li>Lagos, Nigeria</li>
                 <li>info@fortcitydominion.com</li>
-                <li>+234 800 FORTCITY</li>
+                <li>08065818141</li>
               </ul>
             </div>
           </div>

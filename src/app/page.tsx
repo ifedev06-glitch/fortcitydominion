@@ -47,13 +47,6 @@ const services = [
     image:
       "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
   },
-  {
-    title: "Logistics Services",
-    description:
-      "We provide reliable logistics, transportation, distribution, and supply chain solutions to support construction, engineering, and industrial operations.",
-    image:
-      "https://images.unsplash.com/photo-1580674285054-bed31e145f59?w=600&q=80",
-  },
 ];
 
 const stats = [
@@ -98,7 +91,7 @@ export default function Home() {
             <div className="w-10 h-10 rounded-lg overflow-hidden bg-[#0f172a] flex-shrink-0">
               <Image
                 src="/logo.jpg"
-                alt="Fortcity Dominion"
+                alt="Fortcity Dominion Limited"
                 width={40}
                 height={40}
                 className="object-cover w-full h-full"
@@ -109,7 +102,7 @@ export default function Home() {
                 FORTCITY
               </h1>
               <p className="text-[10px] font-medium text-[#c7952b] -mt-0.5">
-                DOMINION
+                DOMINION LIMITED
               </p>
             </div>
           </Link>
@@ -364,7 +357,7 @@ export default function Home() {
         <div className="container-custom">
           <div className="text-center max-w-3xl mx-auto mb-12">
             <p className="text-[#c7952b] font-semibold text-sm tracking-widest uppercase mb-3">
-              Why Fortcity Dominion?
+              Why Fortcity Dominion Limited?
             </p>
             <h2 className="text-3xl md:text-4xl font-bold text-[#0f172a] mb-4">
               Why Choose Us?
@@ -479,6 +472,13 @@ export default function Home() {
                   </div>
                 ))}
               </div>
+
+              <a
+                href="mailto:info@fortcitydominion.com"
+                className="inline-flex items-center gap-2 mt-8 bg-[#c7952b] text-white font-semibold px-6 py-3 rounded-lg hover:bg-[#b8860b] transition-colors text-sm"
+              >
+                Send Us an Email
+              </a>
             </div>
 
             <div className="relative rounded-xl overflow-hidden h-80 md:h-auto min-h-[300px]">
@@ -502,7 +502,7 @@ export default function Home() {
                 <div className="w-10 h-10 rounded-lg overflow-hidden bg-white/10 flex-shrink-0">
                   <Image
                     src="/logo.jpg"
-                    alt="Fortcity Dominion"
+                    alt="Fortcity Dominion Limited"
                     width={40}
                     height={40}
                     className="object-cover w-full h-full"
@@ -511,7 +511,7 @@ export default function Home() {
                 <div>
                   <h3 className="font-bold leading-tight">FORTCITY</h3>
                   <p className="text-[10px] font-medium text-[#c7952b] -mt-0.5">
-                    DOMINION
+                    DOMINION LIMITED
                   </p>
                 </div>
               </div>
